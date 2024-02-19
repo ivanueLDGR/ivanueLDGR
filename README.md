@@ -1,5 +1,6 @@
 ### Hello there! 👋
-Learning to code, playing D&D and stuff
+Learning to code, playing D&D and stuff and doing these tests... almost done...
+AND... DONE!
 
 <!--
 **ivanueLDGR/ivanueLDGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

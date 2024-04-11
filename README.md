@@ -22,5 +22,8 @@ Doing some coding, cooking and DnD
 
 Want to reach me?
 
-<a href="https://www.linkedin.com/in/ivan-ue%C3%B3cka-410250140/" target="_blank">My LinkedIn</a>
-<a href="mailto:ivanUE2810@gmail.com">My email</a>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/ivan-ue%C3%B3cka-410250140/" target="_blank">My LinkedIn</a></li>
+<li><a href="mailto:ivanUE2810@gmail.com">My email</a></li>
+</ul>

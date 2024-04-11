@@ -1,17 +1,26 @@
-### Hello there! 👋
-Learning to code, playing D&D and stuff and doing these tests... almost done...
-AND... DONE!
+#Ivan Ueócka
 
-<!--
-**ivanueLDGR/ivanueLDGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Doing some coding, cooking and DnD
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+1. Backend developer with _some_ frontend.
+    * JavaScript
+    * Typescript **my favorite**
+    * HTML
+    * CSS
+    * VBA
+    * C++
+    * Node
+    * Python
+2. Last year chemical engineering dropout at UNICAMP.
+3. ANGLO prudentino high and middle schooler.
+4. Fully completed Cultura Inglesa english course (C2 proficiency)
+5. Basic spanish Wizard course
+
+***
+
+Want to reach me?
+
+<a href="https://www.linkedin.com/in/ivan-ue%C3%B3cka-410250140/" target="_blank">My LinkedIn</a>
+<a href="mailto:ivanUE2810@gmail.com">My email</a>

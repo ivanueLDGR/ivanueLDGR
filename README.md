@@ -13,10 +13,9 @@ Doing some coding, cooking and DnD
     * C++
     * Node
     * Python
-2. Last year chemical engineering dropout at UNICAMP.
-3. ANGLO prudentino high and middle schooler.
-4. Fully completed Cultura Inglesa english course (C2 proficiency)
-5. Basic spanish Wizard course
+2. Studied chemical engineering at UNICAMP for four years.
+4. Harvard certified proficient english speaker (C2 proficiency)
+5. Basic spanish knowledge
 
 ***
 
@@ -25,5 +24,6 @@ Want to reach me?
 
 <ul>
 <li><a href="https://www.linkedin.com/in/ivan-ue%C3%B3cka-410250140/" target="_blank">My LinkedIn</a></li>
-<li><a href="mailto:ivanUE2810@gmail.com">My email</a></li>
 </ul>
+
+Or you can reach me by email: ivanUE2810@gmail.com
